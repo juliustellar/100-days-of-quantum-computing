@@ -1,0 +1,12 @@
+dill==0.4.1
+numpy==2.4.6
+psutil==7.2.2
+python-dateutil==3.0.0
+qiskit==2.6.1
+qiskit-aer==0.18.2
+rustworkx==0.18.1
+scipy==1.17.1
+six==1.17.0
+stevedore==5.9.1
+typing_extensions==4.16.0
+tzdata==2026.6
